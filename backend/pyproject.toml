@@ -5,7 +5,7 @@ description = ""
 authors = ["Naufal Afif <naufalafif58@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 fastapi = "^0.68.1"
 uvicorn = "^0.15.0"
 websockets = "^9.1"
