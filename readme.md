@@ -1,4 +1,5 @@
 # FastAPI Websocket Chat Example
+This repository contains code for chat application example build on top of  [FastAPI Framework](https://fastapi.tiangolo.com/)
 
 #### Screenshot
 
